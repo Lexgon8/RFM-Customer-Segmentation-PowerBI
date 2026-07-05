@@ -148,6 +148,7 @@ RFM-Customer-Segmentation-PowerBI
 
 Especialista em Business Intelligence, Analytics e Engenharia de Dados, com foco no desenvolvimento de soluções analíticas utilizando Power BI, SQL e Python.
 
-**LinkedIn:** *(adicionar link)*
+**LinkedIn:** *https://www.linkedin.com/pulse/da-an%25C3%25A1lise-de-clientes-%25C3%25A0-tomada-decis%25C3%25A3o-aplicando-rfm-gon%25C3%25A7alves-z0nmf*
 
-**GitHub:** *(adicionar link)*
+**GitHub:** *https://github.com/Lexgon8/RFM-Customer-Segmentation-PowerBI
+*
