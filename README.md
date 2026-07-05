@@ -38,6 +38,37 @@ O projeto foi desenvolvido seguindo boas práticas de Business Intelligence, Mod
 
 ---
 
+---
+
+# 📷 Galeria do Projeto
+
+## Dashboard Executivo
+
+<p align="center">
+  <img src="images/dashboard_executivo.png" width="900">
+</p>
+
+## Segmentação de Clientes
+
+<p align="center">
+  <img src="images/segmentacao.png" width="900">
+</p>
+
+## Análise de Clientes
+
+<p align="center">
+  <img src="images/analise_clientes.png" width="900">
+</p>
+
+## Modelo de Dados
+
+<p align="center">
+  <img src="images/modelo_dados.png" width="900">
+</p>
+
+---
+
+
 ## 🛠️ Tecnologias Utilizadas
 
 | Tecnologia | Finalidade |
