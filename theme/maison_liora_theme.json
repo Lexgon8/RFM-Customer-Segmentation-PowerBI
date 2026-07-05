@@ -1,0 +1,150 @@
+{
+  "name": "SIDE B Light Modern",
+  "dataColors": [
+    "#6F7765",
+    "#F28C6B",
+    "#E37D95",
+    "#E8D9A8",
+    "#5B7C99",
+    "#C48B63",
+    "#B8C4A4",
+    "#7E6B8F"
+  ],
+  "background": "#F8F5EF",
+  "foreground": "#2E2B27",
+  "tableAccent": "#6F7765",
+  "good": "#7FA36B",
+  "neutral": "#D9A441",
+  "bad": "#C96558",
+  "textClasses": {
+    "title": {
+      "fontFace": "Segoe UI Semibold",
+      "color": "#2E2B27"
+    },
+    "label": {
+      "fontFace": "Segoe UI",
+      "color": "#6E6862"
+    },
+    "callout": {
+      "fontFace": "Segoe UI Semibold",
+      "color": "#2E2B27"
+    }
+  },
+  "visualStyles": {
+    "*": {
+      "*": {
+        "title": [
+          {
+            "show": true,
+            "fontFamily": "Segoe UI Semibold",
+            "fontSize": 12,
+            "color": {
+              "solid": {
+                "color": "#2E2B27"
+              }
+            }
+          }
+        ],
+        "legend": [
+          {
+            "show": true,
+            "titleColor": {
+              "solid": {
+                "color": "#2E2B27"
+              }
+            },
+            "labelColor": {
+              "solid": {
+                "color": "#6E6862"
+              }
+            }
+          }
+        ],
+        "categoryAxis": [
+          {
+            "labelColor": {
+              "solid": {
+                "color": "#6E6862"
+              }
+            },
+            "titleColor": {
+              "solid": {
+                "color": "#2E2B27"
+              }
+            },
+            "gridlineColor": {
+              "solid": {
+                "color": "#D9D3CA"
+              }
+            }
+          }
+        ],
+        "valueAxis": [
+          {
+            "labelColor": {
+              "solid": {
+                "color": "#6E6862"
+              }
+            },
+            "titleColor": {
+              "solid": {
+                "color": "#2E2B27"
+              }
+            },
+            "gridlineColor": {
+              "solid": {
+                "color": "#D9D3CA"
+              }
+            }
+          }
+        ],
+        "labels": [
+          {
+            "color": {
+              "solid": {
+                "color": "#2E2B27"
+              }
+            }
+          }
+        ],
+        "background": [
+          {
+            "show": false,
+            "transparency": 100
+          }
+        ]
+      }
+    },
+    "card": {
+      "*": {
+        "labels": [
+          {
+            "color": {
+              "solid": {
+                "color": "#6E6862"
+              }
+            }
+          }
+        ],
+        "categoryLabels": [
+          {
+            "color": {
+              "solid": {
+                "color": "#6E6862"
+              }
+            }
+          }
+        ],
+        "calloutValue": [
+          {
+            "color": {
+              "solid": {
+                "color": "#2E2B27"
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}
